@@ -2,7 +2,7 @@
 
 📍 US / China / Remote | 🧭 AI Product · Fintech · Frontier Technology | 🎓 Harvard + IDEO + Boost VC alum
 
-Venture builder with 10+ years turning emerging technology — AI, stablecoins, blockchain, hardware — into products, teams, and businesses. Building on Bitcoin since 2015 ([Boost VC-backed OP_RETURN timestamping platform](https://www.coindesk.com/markets/2016/02/18/meet-boost-vcs-newest-bitcoin-and-blockchain-startups)); currently building AI-native products across healthcare, biotech, and agent-based commerce.
+Venture builder with 10+ years turning emerging technology — AI, stablecoins, blockchain, hardware — into products, teams, and businesses. Building on Bitcoin since 2015; currently building AI-native products across healthcare, biotech, and agent-based commerce.
 
 ---
 
@@ -24,11 +24,14 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 - **HKD Stablecoin Pilot** — Led zero-to-one product, architecture, and delivery of a Hong Kong dollar stablecoin cross-border settlement pilot (~20-person team; JETCO, Cyberport, HKMA-related stakeholders)
 - **[GodGPT](https://godgpt.fun)** — LLM product grounded in a 500,000-character corpus with custom memory and retrieval; launched web + mobile
+- **[TMRW DAO](https://tmrwdao.com)** — DAO platform where anyone can create and manage their own DAO: FT or NFT governance tokens, proposals, voting, treasury management, and smart-contract execution via a user-friendly interface
 - **[Votigram](https://t.me/Votigram)** — Telegram mini-app voting platform; 0 → ~100,000 users in two months, ~50,000 identity NFTs issued
 - **EchoListen** — AI-assisted on-chain intelligence fusing X API data, Solana activity, and smart-wallet lists into Telegram alerts
-- **The Way Research** — Founded a private digital-asset research community; analyzed 1,000+ crypto projects annually and invented **CNL (Cycle–Narrative–Liquidity)**, an investment framework for markets where capital, narratives, and liquidity interact
+- **The Way Research DAO** — Founded a private digital-asset research community; analyzed 1,000+ crypto projects annually and invented **CNL (Cycle–Narrative–Liquidity)**, an investment framework for markets where capital, narratives, and liquidity interact
 - **[Ubbey Box](https://www.foxbusiness.com/video/5786846695001)** — Consumer private-cloud + blockchain device; ~10,000 units shipped globally, $16M raised
 - **T-MARK** — Blockchain diamond-provenance solution for Chow Tai Fook, mine to consumer
+- **Ownership Protocol** — Decentralized secure-data computation and exchange protocol; authored the white paper;
+- **[Perennial](https://vimeo.com/135014788)** — Storytelling platform that curates a user's key life moments and preserves them for future generations; prototyped at IDEO with Fidelity Future Lab
 
 ## 🛠️ Tech & Domains
 
@@ -38,7 +41,7 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 📜 Credentials
 
-5 patents · 11 software copyrights · Lecturer, Blockchain & Digital Finance @ HIT Shenzhen (2018–2020) · Featured in [Fox Business](https://www.foxbusiness.com/video/5786846695001), [Inc.](https://www.inc.com/darren-heitner/why-hardware-is-being-built-on-top-of-a-new-cloud-based-network.html), [CoinDesk](https://www.coindesk.com/markets/2016/02/18/meet-boost-vcs-newest-bitcoin-and-blockchain-startups)
+5 patents · 11 software copyrights · Lecturer, Blockchain & Finance @ HIT Shenzhen (2018–2020) · Featured in [Fox Business](https://www.foxbusiness.com/video/5786846695001), [Inc.](https://www.inc.com/darren-heitner/why-hardware-is-being-built-on-top-of-a-new-cloud-based-network.html), [CoinDesk](https://www.coindesk.com/markets/2016/02/18/meet-boost-vcs-newest-bitcoin-and-blockchain-startups)
 
 ## 📫 Let's Connect
 
