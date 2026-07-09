@@ -31,7 +31,7 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 🚀 Selected Work
 
-- **HKD Stablecoin Pilot** — Led zero-to-one product, architecture, and delivery of a Hong Kong dollar stablecoin cross-border settlement pilot (~20-person team; JETCO, Cyberport, HKMA-related stakeholders)
+- **[HKD Stablecoin Pilot](https://github.com/HKD-T)** — Led zero-to-one product, architecture, and delivery of a Hong Kong dollar stablecoin cross-border settlement pilot (~20-person team; JETCO, Cyberport, HKMA-related stakeholders)
 - **[GodGPT](https://godgpt.fun)** — LLM product grounded in a 500,000-character corpus with custom memory and retrieval; launched web + mobile
 - **[TMRW DAO](https://tmrwdao.com)** — DAO platform where anyone can create and manage their own DAO: FT or NFT governance tokens, proposals, voting, treasury management, and smart-contract execution via a user-friendly interface
 - **[Votigram](https://t.me/Votigram)** — Telegram mini-app voting platform; 0 → ~100,000 users in two months, ~50,000 identity NFTs issued
