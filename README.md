@@ -45,8 +45,8 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 🛠️ Tech & Domains
 
-- **Building with:** TypeScript, Python, LLM agents & context engineering, Solidity/EVM, Bitcoin
-- **Domains:** Stablecoin architecture, tokenomics, DAO governance, on-chain analytics, homomorphic encryption, DePIN, supply-chain traceability
+- **Building with:** JavaScript, Python, LLM agents & context engineering, Solidity/EVM, Bitcoin
+- **Domains:** Stablecoin architecture, tokenomics, DAO governance, on-chain analytics, homomorphic encryption, DePIN, hardware supply-chain
 - **Approach:** Human-centered design (IDEO) — thesis → prototype → shipped product
 
 ## 📜 Credentials
