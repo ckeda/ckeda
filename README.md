@@ -24,11 +24,12 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 🧪 Building Now
 
+- **[Claw in-a Box](https://github.com/ckeda/claw-in-a-box)** — Bounded authorization for AI agents — delegatable capability tokens with cascading revocation + spend-policy verdicts
 - **[Vetara Labs](https://vetara.bio)** — Nonprofit AI-assisted comparative-oncology platform helping dog families navigate cancer care, plus mRNA vaccine-design workflows
 - **[Astrava Biosciences](https://astrava.bio)** — ASTRA-Tx: AI-assisted translational decision platform for cross-species and cross-environment pharmacology; authored the Space Pharmacology White Paper (2026)
-- **[Claw in-a Box](https://github.com/ckeda/claw-in-a-box)** — Bounded authorization for AI agents — delegatable capability tokens with cascading revocation + spend-policy verdicts
 - **x402 Agent Marketplace** — Experimental agent-to-agent commerce on the [x402 protocol](https://github.com/ckeda/x402): service discovery, authorization, and autonomous payments
-- **NEXT + OpenClaw** — Consumer AI-agent appliance concept: compute, storage, security gateway, pre-installed personal agents
+- **NEXT + OpenClaw/Hermes** — Consumer AI-agent appliance concept: compute, storage, security gateway, pre-installed personal agents
+- **BodyLog** — AI-powered health platform turning medical reports into clear trends, risk alerts, and personalized check-up guidance
 
 ## 🚀 Selected Work
 
@@ -36,12 +37,13 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 - **[GodGPT](https://godgpt.fun)** — LLM product grounded in a 500,000-character corpus with custom memory and retrieval; launched web + mobile
 - **[TMRW DAO](https://tmrwdao.com)** — DAO platform where anyone can create and manage their own DAO: FT or NFT governance tokens, proposals, voting, treasury management, and smart-contract execution via a user-friendly interface
 - **[Votigram](https://t.me/Votigram)** — Telegram mini-app voting platform; 0 → ~100,000 users in two months, ~50,000 identity NFTs issued
+- **[Ubbey Box](https://www.foxbusiness.com/video/5786846695001)** — Consumer private-cloud + blockchain device; ~10,000 units shipped globally, $16M raised
+- **[Perennial](https://vimeo.com/135014788)** — Storytelling platform that curates a user's key life moments and preserves them for future generations; prototyped at IDEO with Fidelity Future Lab
 - **EchoListen** — AI-assisted on-chain intelligence fusing X API data, Solana activity, and smart-wallet lists into Telegram alerts
 - **The Way Research DAO** — Founded a private digital-asset research community; analyzed 1,000+ crypto projects annually and invented **CNL (Cycle–Narrative–Liquidity)**, an investment framework for markets where capital, narratives, and liquidity interact
-- **[Ubbey Box](https://www.foxbusiness.com/video/5786846695001)** — Consumer private-cloud + blockchain device; ~10,000 units shipped globally, $16M raised
 - **T-MARK** — Blockchain diamond-provenance solution for Chow Tai Fook, mine to consumer
-- **Ownership Protocol** — Decentralized secure-data computation and exchange protocol; authored the white paper;
-- **[Perennial](https://vimeo.com/135014788)** — Storytelling platform that curates a user's key life moments and preserves them for future generations; prototyped at IDEO with Fidelity Future Lab
+- **Ownership Protocol** — Decentralized secure-data computation and exchange protocol; authored the white paper
+
 
 ## 🛠️ Tech & Domains
 
