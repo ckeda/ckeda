@@ -24,7 +24,7 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 🧪 Building Now
 
-- **[Claw in-a Box](https://github.com/ckeda/claw-in-a-box)** — Bounded authorization for AI agents — delegatable capability tokens with cascading revocation + spend-policy verdicts
+- **[Claw in-a Box](https://clawinabox.xyz)** — Bounded authorization infrastructure for AI agents: delegatable capability tokens, cascading revocation, and spend-policy controls. Its core auth plugin was merged into [NandaTown](https://nandahack.media.mit.edu/) with adversarial validators and property-based tests.
 - **[Vetara Labs](https://vetara.bio)** — Nonprofit AI-assisted comparative-oncology platform helping dog families navigate cancer care, plus mRNA vaccine-design workflows
 - **[Astrava Biosciences](https://astrava.bio)** — ASTRA-Tx: AI-assisted translational decision platform for cross-species and cross-environment pharmacology; authored the Space Pharmacology White Paper (2026)
 - **x402 Agent Marketplace** — Experimental agent-to-agent commerce on the [x402 protocol](https://github.com/ckeda/x402): service discovery, authorization, and autonomous payments
