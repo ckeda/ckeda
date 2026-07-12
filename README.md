@@ -41,7 +41,7 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 - **[Perennial](https://vimeo.com/135014788)** — Storytelling platform that curates a user's key life moments and preserves them for future generations; prototyped at IDEO with Fidelity Future Lab
 - **EchoListen** — AI-assisted on-chain intelligence fusing X API data, Solana activity, and smart-wallet lists into Telegram alerts
 - **The Way Research DAO** — Founded a private digital-asset research community; analyzed 1,000+ crypto projects annually and invented **[CNL](https://kedache.com/insights/cnl-framework/cycle-narrative-liquidity/) (Cycle–Narrative–Liquidity)**, an investment framework for markets where capital, narratives, and liquidity interact
-- **T-MARK Diamond Traceability** — Blockchain diamond-provenance solution for Chow Tai Fook, mine to consumer
+- **T-MARK Diamond Traceability** — Blockchain diamond-provenance solution for Chow Tai Fook
 - **Ownership Protocol** — Decentralized secure-data computation and exchange protocol; authored the white paper
 - **Ownership Platform** — Bitcoin OP_RETURN-based IP timestamping platform; backed by Boost VC and covered by CoinDesk
 
