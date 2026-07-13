@@ -24,12 +24,14 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 🧪 Building Now
 
-- **[Claw in-a Box](https://clawinabox.xyz)** — Bounded authorization infrastructure for AI agents: delegatable capability tokens, cascading revocation, and spend-policy controls. Its core auth plugin was merged into [NandaTown](https://nandahack.media.mit.edu/) with adversarial validators and property-based tests.
+**🟢 [Live service status](https://api.clawinabox.xyz/status)** — everything below that has a service is running right now.
+- **[Claw in-a Box](https://clawinabox.xyz)** — Bounded authorization infrastructure for AI agents: delegatable capability tokens, cascading revocation, and spend-policy controls. Its core auth plugin was merged into [NandaTown](https://nandahack.media.mit.edu/) (MIT Media Lab) with adversarial validators and property-based tests.
 - **[Vetara Labs](https://vetara.bio)** — Nonprofit AI-assisted comparative-oncology platform helping dog families navigate cancer care, plus mRNA vaccine-design workflows
 - **[Astrava Biosciences](https://astrava.bio)** — ASTRA-Tx: AI-assisted translational decision platform for cross-species and cross-environment pharmacology; authored the Space Pharmacology White Paper (2026)
-- **x402 Agent Marketplace** — Experimental agent-to-agent commerce on the [x402 protocol](https://github.com/ckeda/x402): service discovery, authorization, and autonomous payments
+- **[Agent-to-agent commerce (x402)](http://okx.clawinabox.xyz/)** — Shipped a pay-per-call authorization service on OKX.AI's A2MCP marketplace: x402 payment verification and settlement on X Layer, service discovery via SKILL.md, and human approval routed to the caller's own Telegram
+- **[BodyLog](https://bodylog.kedache.com/)** — AI-powered health platform turning medical reports into clear trends, risk alerts, and personalized check-up guidance
 - **NEXT + OpenClaw/Hermes** — Consumer AI-agent appliance concept: compute, storage, security gateway, pre-installed personal agents
-- **BodyLog** — AI-powered health platform turning medical reports into clear trends, risk alerts, and personalized check-up guidance
+
 
 ## 🚀 Selected Work
 
