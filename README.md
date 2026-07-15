@@ -28,8 +28,8 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 - **[Claw-in-a-Box](https://clawinabox.xyz)** — Bounded authorization for AI agents: delegatable capability tokens with cascading revocation, plus `allow / review / deny` spend-policy verdicts with human approval routed to Telegram. One protocol, two surfaces: the auth plugin is **merged into [NandaTown](https://github.com/projnanda/nandatown/pull/138) (MIT Media Lab)** with adversarial validators, and the hosted pay-per-call service is **live on Coinbase's [x402 Bazaar](https://agentic.market/services/api-clawinabox-xyz)** (USDC on Base) and listed on **[OKX.AI](https://www.okx.ai/agents)** (USDT0 on X Layer) — same endpoint, two settlement rails.
 - **[Vetara Labs](https://vetara.bio)** — Nonprofit AI-assisted comparative-oncology platform helping dog families navigate cancer care, plus mRNA vaccine-design workflows
 - **[Astrava Biosciences](https://astrava.bio)** — ASTRA-Tx: AI-assisted translational decision platform for cross-species and cross-environment pharmacology; authored the Space Pharmacology White Paper (2026)
-- **[Agent-to-agent commerce (x402)](http://okx.clawinabox.xyz/)** — Shipped a pay-per-call authorization service on OKX.AI's A2MCP marketplace: x402 payment verification and settlement on X Layer, service discovery via SKILL.md, and human approval routed to the caller's own Telegram
 - **[BodyLog](https://bodylog.kedache.com/)** — AI-powered health platform turning medical reports into clear trends, risk alerts, and personalized check-up guidance
+- **PLI Protocol** - An open protocol for enabling AI agents to reason across distributed knowledge without centralizing it.
 - **NEXT + OpenClaw/Hermes** — Consumer AI-agent appliance concept: compute, storage, security gateway, pre-installed personal agents
 
 
