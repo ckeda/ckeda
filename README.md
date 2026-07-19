@@ -2,7 +2,7 @@
 
 📍 US / China / Remote | 🧭 AI Product · Fintech · Frontier Technology | 🎓 Harvard + IDEO + Boost VC alum
 
-Venture builder with 10+ years turning emerging technology — AI, stablecoins, blockchain, hardware — into products, teams, and businesses. Building on Bitcoin since 2015; currently building AI-native products across x402, biotech, and agent-based commerce.
+Venture builder with 10+ years turning emerging technology — AI, stablecoins, blockchain, hardware — into products, teams, and businesses. Building on Bitcoin since 2015; currently building AI-native products across x402, biotech, and agent-based systems.
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
