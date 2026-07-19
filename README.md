@@ -2,33 +2,33 @@
 
 📍 US / China / Remote | 🧭 AI Product · Fintech · Frontier Technology | 🎓 Harvard + IDEO + Boost VC alum
 
-Venture builder with 10+ years turning emerging technology — AI, stablecoins, blockchain, hardware — into products, teams, and businesses. Building on Bitcoin since 2015; currently building AI-native products across x402, healthcare, biotech, and agent-based commerce.
+Venture builder with 10+ years turning emerging technology — AI, stablecoins, blockchain, hardware — into products, teams, and businesses. Building on Bitcoin since 2015; currently building AI-native products across x402, biotech, and agent-based commerce.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=flat-square&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PlayStation](https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=fff)
+![PlayStation](https://img.shields.io/badge/PlayStation-0070D1?style=flat-square&logo=playstation&logoColor=fff)
 ---
 
 ## 🔭 Focus Areas
 
-- **Life with AI** — LLM products, AI agents, prompt & context engineering, AI-assisted healthcare and science
-- **Money, Reimagined** — Stablecoins, tokenized deposits, cross-border payments, on-chain intelligence
+- **Life with AI** — LLM products, AI agents, prompt & context engineering, AI-native healthcare and science
+- **Money, Reimagined** — Stablecoins, x402, on-chain intelligence
 - **Zero to One** — Venture theses, fundraising narratives, team formation, commercialization
 - **Atoms & Bits** — Consumer hardware, DePIN, embedded systems, enterprise blockchain
 
 ## 🧪 Building Now
 
 - **[Claw-in-a-Box](https://clawinabox.xyz)** — Bounded authorization for AI agents: delegatable capability tokens with cascading revocation, plus `allow / review / deny` spend-policy verdicts with human approval routed to Telegram. One protocol, two surfaces: the auth plugin is **merged into [NandaTown](https://github.com/projnanda/nandatown/pull/138) (MIT Media Lab)** with adversarial validators, and the hosted pay-per-call service is **live on Coinbase's [x402 Bazaar](https://agentic.market/services/api-clawinabox-xyz)** (USDC on Base) and listed on **[OKX.AI](https://www.okx.ai/agents/5854)** (USDT0 on X Layer) — same endpoint, two settlement rails.
-- **[Vetara Labs](https://vetara.bio)** — Nonprofit AI-assisted comparative-oncology platform helping dog families navigate cancer care, plus mRNA vaccine-design workflows
+- **[Vetara Labs](https://vetara.bio)** — Nonprofit AI&PLI-powered comparative-oncology platform helping dog families navigate cancer care, plus mRNA vaccine-design workflows
 - **[Astrava Biosciences](https://astrava.bio)** — ASTRA-Tx: AI-assisted translational decision platform for cross-species and cross-environment pharmacology; authored the Space Pharmacology White Paper (2026)
-- **[BodyLog](https://bodylog.kedache.com/)** — AI-powered health platform turning medical reports into clear trends, risk alerts, and personalized check-up guidance
-- **PLI Protocol** - An open protocol for enabling AI agents to reason across distributed knowledge without centralizing it
+- **BodyLog** — AI&PLI-powered health platform turning medical reports into clear trends, risk alerts, and personalized check-up guidance
+- **PLI Protocol** - An open protocol for enabling multi-agent systems to reason across distributed knowledge without centralizing it
 - **NEXT + OpenClaw/Hermes** — Consumer AI-agent appliance concept: compute, storage, security gateway, pre-installed personal agents
 
 
@@ -48,7 +48,7 @@ Venture builder with 10+ years turning emerging technology — AI, stablecoins, 
 
 ## 🛠️ Tech & Domains
 
-- **Building with:** JavaScript, Python, LLM agents & context engineering, Solidity/EVM, Bitcoin
+- **Building with:** Typescript, Python, LLM agents & context engineering, Solidity/EVM, Bitcoin
 - **Domains:** Stablecoin architecture, tokenomics, DAO governance, on-chain analytics, homomorphic encryption, DePIN, hardware supply-chain
 - **Approach:** Human-centered design (IDEO) — thesis → prototype → shipped product
 
